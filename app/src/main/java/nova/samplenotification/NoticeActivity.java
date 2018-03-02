@@ -14,7 +14,7 @@ import com.tistory.webnautes.notification.R;
 
 
 
-public class NotificationSomething extends Activity {
+public class NoticeActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState)
     {

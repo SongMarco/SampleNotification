@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SampleNotification.iml" filepath="$PROJECT_DIR$/SampleNotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SampleNotification.iml" filepath="$PROJECT_DIR$/.idea/SampleNotification.iml" />
+      <module fileurl="file://C:\working files\SampleNotification\SampleNotification.iml" filepath="C:\working files\SampleNotification\SampleNotification.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\working files\SampleNotification\app\app.iml" filepath="C:\working files\SampleNotification\app\app.iml" />
     </modules>
   </component>
 </project>

@@ -16,7 +16,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="nova.samplenotification.NotificationSomething">
+        <activity android:name="nova.samplenotification.NoticeActivity">
         </activity>
 
     </application>
